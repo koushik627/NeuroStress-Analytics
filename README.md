@@ -5,5 +5,5 @@ assesses task-induced strain, and provides nuanced insights through advanced sig
 2. Identifying the most contributing channels for stress
 3. Identifying the most stressful task performed by the subjects in the dataset.
 
-The dataset was taken from a research paper named SAM 40.
+The dataset was not uploaded as it is really large, the dataset was taken from a research paper named SAM 40 and accessed through drive during development.
 The link to the research paper is https://www.sciencedirect.com/science/article/pii/S2352340921010465
